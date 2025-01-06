@@ -18,7 +18,7 @@ Key Attributes:
 
 ## Tools
 - SQL: Used for data cleaning, data modeling, and preliminary analysis.
-- Excel: Used for data visualization and generating charts based on the cleaned dataset.
+- Excel: Used for data visualization and generating charts from the cleaned dataset.
 
 ## Resources
 The following resources are included in the project folder:
