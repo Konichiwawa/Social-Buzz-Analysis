@@ -1,7 +1,7 @@
 # Social Buzz Analysis
 
 ## Objective
-The objective of this project is to perform a preliminary analysis of datasets related to user engagement with the Social Buzz mobile app. The project is a job simulation brought to us by [Accenture](https://www.theforage.com/simulations/accenture-nam/data-analytics-mmlb), a leading data analytics consulting firm, aims to explore key metrics of user interaction for educational purposes.
+The objective of this project is to perform a preliminary analysis of datasets related to user engagement with the Social Buzz mobile app. The project is a job simulation brought by [Accenture](https://www.theforage.com/simulations/accenture-nam/data-analytics-mmlb), a leading data analytics consulting firm that aims to explore key metrics of user interaction for educational purposes.
 
 ## Data Overview
 The data for this project was provided by Social Buzz to Accenture. The dataset includes 7 tables, with the most notable being:
